@@ -1,5 +1,5 @@
-# Apex-Solutions
-Calling Ajax process from Javascript code in dynamic action
+# Calling Ajax process from Javascript code in dynamic action
+
 
 Steps :
 1. Create a form region in Apex with items (P1_EMPNO,P1_DETAILS)
